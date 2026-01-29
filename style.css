@@ -1,0 +1,147 @@
+body{
+    background-color: gainsboro;
+    margin: 0;
+    padding: 0;
+
+}
+
+.container{
+
+}
+
+.header{
+    text-align: center;
+     /* border-radius: 5px; */
+    height: 180px;
+    background-color:aliceblue;
+    background-image:url(../desktop-source-code-wallpaper-by-computer-language-with-coding-programming_33771-595.jpg);
+    
+  
+    
+}
+
+.main{
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 5px;
+    display: flex;
+    vertical-align: middle;
+    justify-content: space-around;
+    line-height: 20px;
+
+}
+.img{
+    height: 95%;
+    width: 98%;
+    margin-top: 15px;
+    
+}
+.git{
+   
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: aliceblue;
+    padding: 50px;
+    border-radius: 5px;
+    text-align: center;
+}
+.info{
+    direction: rtl;
+    background-color: aliceblue;
+    width: 40%;
+     border-radius: 10px;
+    word-spacing: 3px;
+    line-height: 30px;
+
+}
+.info ul{
+    list-style: none;
+    font-weight: bold;
+}
+.info ul li ul{
+    font-weight: lighter;
+}
+.pic{
+    background-color: aliceblue;
+    width: 40%;
+    border-radius: 10px;
+
+}
+.link-img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+.university{
+    direction: rtl;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: aliceblue;
+    padding: 50px;
+    border-radius: 5px;
+    /* text-align: center; */
+    
+}
+.university table{
+    width: 80%;
+    margin-right: 100px
+    
+}
+.university table td{
+    padding: 20px;
+    
+}
+.university table thead tr td{
+    border-bottom: 1px solid red;
+    padding-bottom: 5px;
+}
+.tutori{
+     direction: rtl;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: aliceblue;
+    padding: 50px;
+    border-radius: 5px;
+}
+.tutori table{
+    width: 80%;
+    margin-right: 100px
+}
+.tutori table td{
+    padding: 20px;
+    
+}
+.tutori table thead tr td{
+    border-bottom: 1px solid red;
+    padding-bottom: 5px;
+}
+.languge{
+     direction: rtl;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: aliceblue;
+    padding: 50px;
+    border-radius: 5px;
+
+    
+}
+.languge table{
+    width: 80%;
+     margin-right: 100px
+
+}
+.langugetable td{
+    padding: 20px;
+    
+}
+.languge table thead tr td{
+    border-bottom: 1px solid red;
+    padding-bottom: 5px;
+}
+
+
